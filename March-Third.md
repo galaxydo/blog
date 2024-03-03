@@ -1,39 +1,33 @@
 ### The evolution of knowledge and current state of spatial knowledge management systems
 
-### The History
+## Goal
+It's crucial to maintain your second brain, writing your own thoughts and notes, to grow your own independent knowledge tree.
 
-#### Being Human means to understand the world conceptually and share, discuss, and refine your understanding with others
+## Problem
+All the notes are currently fragmented across many websites, social network comments, blog posts, Notion documentation, Trello boards, real-time data in sport news and blockchain block explorers, etc.
 
-#### Early Attempts were physical paper books, which are difficult to organize and link across each other.
+> Interestingly, fragmentation of information is exact problem the internet was originally supposed to solve.
+The original MeMex Machine was designed to upload all the written books into a interwingled shared digital stretch-text space visually revealing innate interconnections of meanings across all the books.
 
-#### In solution, a Memex machine was designed to solve it, by uploading all books into interlinked digital format.
+### Searching for Solution
 
-#### It was supposed to create sd
+## First. Screenshots
+Continuously take Screenshots while browsing the internet, save them in a folder, switch to gallery view in macos Finder and zoom out to review.
 
-#### Libraries exist to organize books and categorize them
+## Second. Excalidraw
+Drag&Drop all screenshots from a folder into a drawing canvas. Now can freely move them around to organize into a structure that makes sense, edit and resize each one individually, and draw visual connections in between them.
 
-#### Digital stretch space to organize all your thoughts
+## Third. Excalidraw Plus
+Create Workspace to manage multiple whiteboards, organize them into topics.
 
-#### Early attempts were physical books, 
+## Fourth. Excalidraw-Obsidian-Plugin
+Transclusion of nested whiteboards and documents, running custom scripts.
 
-#### 1. It's crucial to maintain your second brain, writing your own thoughts and notes, in the world of information overflow to grow your own independent knowledge tree
+## Fifth. Galaxy PKM
+Spawn multiple whiteboards as separate desktop windows. Sync and refresh external documents. Semantic Search.
 
-#### 2. All the notes are currently fragmented across many websites
+## Sixth. Galaxy KMS
+Share encrypted whiteboards across organization.
 
-Interestingly, fragmentation of information is exact problem the internet was originally supposed to solve. The original MeMex Machine was designed to upload all the written books into a single shared digital stretch-text space, interlinking their meaning across
-
-#### 3. What you can do organize is often taking screenshots across many websites while browsing and then save them in folder as default in macos you can zoom out and see them together.
-
-#### 4. But you cannot draw lines in between them or resize them, there is no freedom to organize them in folder.
-
-#### 5. The solution here to move them into a canvas Excalidraw
-
-#### 6. Then when you have really lots of canvases, you can switch to Excalidraw Plus to manage and save multiple canvases.
-
-#### 7. Then when you need advanced scripting for searching and interlinking canvases between themselves you can switch Obsidian with excalidraw-obsidian-plugin
-
-#### 8. Now when you want to synchronize and organize canvases across your organization and build whitelabel knowledge management system for your own personal or business projects, this is where Galaxy comes in with infinite capabilities of Macros.
-
-And its running as a desktop app where you can spawn many windows. And it comes with built in Deno engine for running any scripts over your knowledge base: semantic search, AI generation and analysis, etc.
-
-#### 9. Our Vision is to build internet of whiteboards interlinking multiple organizational and individual knowledge bases across each other.
+## Seventh. Galaxy Browser
+Internet of Whiteboards interlinking second brains of individuals and organizations into a single workspace.
